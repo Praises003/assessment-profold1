@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const dotenv = require('dotenv');
 /**
  * Mongoose Connection Config
  * @typedef {Object} MongooseConnectionConfig
