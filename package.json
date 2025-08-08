@@ -13,7 +13,8 @@
     "prepare": "husky",
     "commitlint": "commitlint --edit",
     "sync-envs": "node sync-env-files",
-    "start": "node app.js"
+    "start": "node app.js",
+    "sync-envs": "node sync-env-files"
   },
   "keywords": [],
   "author": "Resilience17",
